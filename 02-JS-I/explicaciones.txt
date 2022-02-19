@@ -1,0 +1,11 @@
+Tarea 1
+
+- Variables: Son como cajas que guardan cosas. Estas cosas puede ser un peluche, un cuaderno o hasta ropa; por eso se les llama variables, porque lo que está dentro de estas cajas puede cambiar o variar.
+
+- Strings: Los string o cadenas de texto son todo aquello que va dentro de comillas simples o dobles. Aunque estas cadenas de texto puede que contengan solo números, símbolos o alguna combinación de ambos, siempre se les considera texto.
+
+- Funciones (argumentos, return): Son procesos que contienen una serie de tareas que pueden o no recibir valores (argumentos) y devuelven (return) un resultado. Por ejemplo: La función "freír huevo" recibe el argumento "huevo". Como primera tarea sería conseguir la sartén, luego se rompe el huevo, se deja hasta que está frito y luego se sirve (se retorna o devulve).
+
+- Declaraciones if: Son condiciones que, en caso de cumplirse, permiten "ver" cosas que, en caso de no cumplirse, no veríamos. Por ejemplo: Para entrar a una atracción en un parque de diversiones la condición es ser mayor de 18 años; si se tiene la edad o más, te puedes montar; si no, no.
+
+- Valores booleanos (true, false): Representan un valor de verdad o uno de mentira. Si un valor es verdadero, se le llama true; si es de mentira o falso, se le dice false. Lo mismo con las condiciones: si se cumplen, son verdaderas; si no se cumplen, son falsas.
