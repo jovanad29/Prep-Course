@@ -1,0 +1,8 @@
+Tarea 2:
+
+- For: Sirve para repetir una serie de tareas la cantidad de veces que queramos.
+
+- &&, ||, !: Estos símbolos representan lo siguiente:
+    - &&: Es lo mismo que decir "esta expresión debe ser verdadera y esta otra también". En compuertas lógicas equivale a AND.
+    - ||: Es lo mismo que decir "al menos una de estas dos expresiones debe ser verdadera, no pasa nada si todas lo son". En compuertas lógicas equivale a OR.
+    - !: Es lo mismo que decir "esto debe ser falso". En compuertas lógicas equivale a NOT.
