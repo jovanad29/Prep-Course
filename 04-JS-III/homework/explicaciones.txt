@@ -1,0 +1,3 @@
+Tarea 3:
+
+- Arrays: Los arreglos o listas (según el lenguaje) son como un gabetero, en donde en cada gabeta puedo guardar una cosa diferente. Cada gabeta está identificada con un número (índice) o nombre (para arreglos asociativos); algunos lenguajes permiten ambas opciones, otros solo números. En el caso de arreglos con posiciones numéricas, estas comienzan a contar desde 0 o 1, según el lenguaje. Para poder agarrar un objeto específico es necesario ir hasta la gabeta con el número (o nombre) correcto.
