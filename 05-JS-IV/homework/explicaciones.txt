@@ -1,0 +1,14 @@
+Tarea 4:
+
+- Objetos: Son como plantillas. En una plantilla se pueden guardar características que definen un objeto. Por ejemplo: un vehículo. Un vehículo se caracteriza por tener ruedas, motor, por lo menos un asiento, un color... Un vehículo puede ser un carro, una bici, una moto, un camión, etc., y todos ellos comparten las mismas características. A las características se les llama propiedades y los objetos encierran estas propiedades entre llaves ({}). Para poder acceder a cada propiedad, se escribe el nombre del objeto y, entre corchetes ([]) o luego de un punto (.) el nombre de la propiedad. Por ejemplo:
+    carro = {
+        "ruedas": 4,
+        "motor": "motor x",
+        "cantAsientos": 5,
+        "color": "rojo"
+    }
+Si se quiere saber el color del objeto "carro", se escribe carro['color'] o carro.color
+- Propiedades: Son las "llaves" que permiten el acceso a el valor de un objeto. Como los índices en los arreglos.
+- Métodos: Son funciones que se encuentran dentro de un objeto.
+- Bucle for…in: Los objetos no tienen índices sino propiedades, por lo que con un bucle for normalito no se podría acceder a cada valor. El bucle for in itera sobre cada propiedad del objeto declarado dentro de él. Por ejemplo "for (propiedad in objeto) {console.log(propiedad)}" imprimiría en consola cada una de las propiedades del objeto en cada iteración. 
+- Notación de puntos vs notación de corchetes: Ambas hacen lo mismo y, según la situación, una puede ser más práctica que la otra. Por ejemplo, si la propiedad de un objeto viene dentro de una variable, la notación de punto no funcionaría porque es necesario tener el nombre real de la propiedad, la notación de corchetes sería la indicada en esta situación porque permite buscar tanto por variable como con el nombre directamente.
