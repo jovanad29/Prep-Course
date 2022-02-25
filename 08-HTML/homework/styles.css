@@ -30,7 +30,7 @@ body{
 }
 
 img{
-    width: 400px;
+    width: 250px;
     display: block;
 }
 
@@ -60,10 +60,11 @@ a{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url('img/fondo-wood.jpg');
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/23/15/04/wood-1853403_960_720.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-bottom: 18px;
+    height: 100vh;
 }
