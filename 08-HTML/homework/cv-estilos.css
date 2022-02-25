@@ -1,0 +1,38 @@
+/* GENÉRICO */
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: mistyrose; /*antiquewhite;*/
+    background-color: #333;
+}
+
+h1 {font-size: 3rem;}
+
+section{ padding: 20px 0; }
+ul{ margin: 0; padding: 0; }
+ul li{ list-style: none; }
+
+/* CUERPO */
+#skills{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#skills .wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img{
+    /* border-radius: 50%; */
+}
