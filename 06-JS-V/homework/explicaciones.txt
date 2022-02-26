@@ -1,0 +1,13 @@
+Tarea 5:
+
+- Prototype: Es una propiedad que viene por defecto en los objetos de javascript. Todo en javascript es un objeto, por lo tanto, todo los elementos de javascript tiene esta propiedad. Se utiliza para agregar propiedades al objeto al que pertenecen y sus intancias. Por ejemplo:
+function Carro(){
+    this.ruedas = 4,
+    this.puertas = 4
+}
+Carro.prototype.color = "rojo";
+De esta forma se ha agregado una nueva propiedad (color) al objeto o clase Carro.
+Si se creara una instancia de este objeto, esta heredaría la propiedad creada con el prototype.
+
+- Constructores: Una función constructor es aquella que le da inicio a un objeto (clase). Es la que recibe los parámetros que inicializarían las propiedades de su clase. Es por esta función que podemos crear instancias (o copias) de un objeto con la palabra clave new.
+A pesar de que es como una función normal, no retorna nada; se puede colocar el return pero será ignorado.

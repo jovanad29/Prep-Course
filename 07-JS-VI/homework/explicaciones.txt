@@ -1,0 +1,3 @@
+Tarea 6:
+
+Funciones Callback: Son funciones que se puede utilizar como parámetros en otra función. Se suelen utilizar en los métodos map(), filter() y reduce(), y suelen ser anónimas (que no tienen nombre).

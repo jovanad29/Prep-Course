@@ -10,12 +10,13 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
-    color: mistyrose; /*antiquewhite;*/
-    background-color: #333;
+    /* color: #f2efe9; */
+    /* background-color: #252627; */
+    color: #F46036;
+    background-color: #2E294E;
 }
 
 h1 {font-size: 3rem;}
-
 section{ padding: 20px 0; }
 ul{ margin: 0; padding: 0; }
 ul li{ list-style: none; }
